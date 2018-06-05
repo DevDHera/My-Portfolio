@@ -1,24 +1,14 @@
 # Portfolio of Devin
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my personal portfolio to show off some of the works I have done and been doing throught my little developer life span. I begin programming about a year ago (2017) and been doing good since then.
 
-Things you may want to cover:
+When creating the portfolio I didn't want to just create a website. Instead I was keen on to creating this on RoR.
 
-- Ruby version
+> My Portfolio is fully created using RoR 5
 
-- System dependencies
+Apart from adding works I also included the following to portfolio website.
 
-- Configuration
+### Additional Features
 
-- Database creation
-
-- Database initialization
-
-- How to run the test suite
-
-- Services (job queues, cache servers, search engines, etc.)
-
-- Deployment instructions
-
-- ...
+- Action cable for real time chat.
+- Multi user Blog space for anyone keen on spreading good to the world.
